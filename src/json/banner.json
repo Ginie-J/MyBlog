@@ -1,0 +1,28 @@
+{
+    "texts" : [
+    [
+        {"content" : "What is Lorem Ipsum?", "delay": 1000},
+        {"content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "delay": 1000},
+        {"content" : "Orci varius natoque penatibus et magnis dis parturient montes", "delay": 1000}
+    ],
+    [
+        {"content" : "Vestibulum et convallis mauris, vitae porta mi. Vivamus dapibus", "delay": 1000},
+        {"content" : "Integer ultrices euismod facilisis", "delay": 1000},
+        {"content" : "Mauris eget erat tristique, commodo quam eu", "delay": 1000}
+    ],
+    [
+        {"content" : "Quisque lacus diam, aliquam vel facilisis id, semper vitae nunc", "delay": 1000},
+        {"content" : "Praesent feugiat iaculis varius", "delay": 1000},
+        {"content" : "Morbi tristique metus eget imperdiet fringilla", "delay": 1000}
+    ],
+    [
+        {"content" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...", "delay": 1000},
+        {"content" : "Vestibulum porttitor finibus nisi a vehicula", "delay": 1000},
+        {"content" : "Nulla pretium mauris gravida mauris sodales venenatis.", "delay": 1000}
+    ],
+    [
+        {"content" : "ultrices neque eu, pellentesque ipsum", "delay": 1000},
+        {"content" : "nascetur ridiculus mus. Donec enim ipsum, dictum ut mi sed, tristique faucibus justo", "delay": 1000},
+        {"content" : "Nam dapibus dolor orci, vitae tempor ligula tempor in", "delay": 1000}
+    ]]
+}
