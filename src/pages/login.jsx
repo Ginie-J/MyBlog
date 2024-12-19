@@ -23,7 +23,7 @@ const login = () => {
                     name: profile.name,
                     social: 'google',
                     picture: profile.picture,
-                    role: profile.email === 'musecom@gmail.com' ? 'admin' : 'user' // 역할 설정
+                    role: profile.email === 'myemail@gmail.com' ? 'admin' : 'user' // 역할 설정
                 };
                 login({ userInfo, token: tokenResponse.access_token});
             

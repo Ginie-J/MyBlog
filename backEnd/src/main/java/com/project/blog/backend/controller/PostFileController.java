@@ -30,7 +30,7 @@ public class PostFileController {
     private PostFileService postFileService;
 
     private static final List<String> ALLOWED_IMAGE_EXT = Arrays.asList("jpg", "jpeg", "png", "gif", "webp");
-   private static final String UPLOAD_DIR = "C:/yiyoujae/react/blogs/frontend/public/upload/";
+   private static final String UPLOAD_DIR = "C:/gyujin_jhe/react/myBlog/frontend/public/images/";
 
     //업로드
     @PostMapping
